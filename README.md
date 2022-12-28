@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @phayhy
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning 
+- 🌱 I’m currently learning HTML, CSS, & Javascript
 - 📫 How to reach me : this account
 
 <!---
